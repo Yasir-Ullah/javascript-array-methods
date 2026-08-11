@@ -21,3 +21,4 @@
 // splice
 // let friuts = ["Apple", "Banana", "Orange"];
 // friuts.splice(1, 1);
+console.log(friuts);
