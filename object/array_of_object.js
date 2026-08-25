@@ -18,4 +18,5 @@ let students = [
   },
 ];
 
-console.log(students);
+console.log(students[0].marks);
+console.log(students[2].age);
