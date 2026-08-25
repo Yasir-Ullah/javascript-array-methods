@@ -61,3 +61,17 @@ console.log(book);
 
 delete book.title;
 console.log(book);
+
+// Task 6: Object with Array
+// Print:
+
+// All subjects
+// The first subject only
+
+let student1 = {
+  name: "Ali",
+  subjects: ["Math", "Physics", "Computer"],
+};
+
+console.log(student1.subjects);
+console.log(student1.subjects[0]);
