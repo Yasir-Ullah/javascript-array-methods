@@ -1,6 +1,6 @@
 // Function Declaration
-function add(a, b) {
-  return a + b;
+function greet() {
+  console.log("Hello World");
 }
 
-console.log(add(5, 3));
+greet();
